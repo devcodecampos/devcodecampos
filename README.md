@@ -4,10 +4,10 @@
 - 🌱 Atualmente estou participando de um treinamento com formação em Swift (iOS), através do programa go!dev by Idwall / Gama Academy 
 - ⚡ Sou Apaixonado por tudo que envolve tecnologia
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/codecampos">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=codecampos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecampos&hide=ruby,Objective-C,Starlark,Dockerfile&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codecampos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecampos&hide=ruby,Objective-C,Starlark,Dockerfile&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
  
 
