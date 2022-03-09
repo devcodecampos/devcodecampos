@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/codecampos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codecampos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecampos&hide=ruby,Objective-C,Starlark,Dockerfile&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=codecampos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecampos&hide=ruby,Objective-C,Starlark,Dockerfile&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
  
 
@@ -27,6 +27,6 @@
   <a href = "mailto:devcodecampos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheuscamposp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/codecampos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/codecampos/codecampos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
