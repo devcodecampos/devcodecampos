@@ -1,7 +1,7 @@
 ## ☮️ Hello World 
 
 - 👨🏽‍💻 Sou Assistente de Desenvolvimento de Sistemas na [TV ASA BRANCA - AFILIADA GLOBO](https://www.linkedin.com/company/tv-asa-branca/)
-- 🍎 Atualmente estou participando de um treinamento com formação em Swift (iOS), através do programa go!dev by [Idwall](https://idwall.co/) / [Gama Academy](https://www.gama.academy/)
+- 🍎 Recentemente finalizei um treinamento com formação em Swift (iOS), através do programa go!dev by [Idwall](https://idwall.co/) / [Gama Academy](https://www.gama.academy/)
 - 🌈 Entusiasta da área de tecnologia, apaixonado por programação e pelas tecnologias que envolvem o desenvolvimento web/mobile.
 <div align="center">
   <a href="https://github.com/codecampos">
