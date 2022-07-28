@@ -1,4 +1,4 @@
-<img align="right" alt="Math-pic" height="350" style="border-radius:50px;" src="https://github.com/codecampos/images/blob/main/octocat-codecampos.png">
+<img align="right" alt="Octocat-pic" height="320" style="border-radius:50px;" src="https://github.com/codecampos/images/blob/main/octocat-codecampos.png">
 
 ## ☮️ Hello World 
 
