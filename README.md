@@ -3,13 +3,9 @@
 ☮️ Hello World
 
 - 👨🏽‍💻 Sou Assistente de Desenvolvimento de Sistemas na [TV ASA BRANCA - AFILIADA GLOBO](https://www.linkedin.com/company/tv-asa-branca/)
-- 🌈 Entusiasta da área de tecnologia, apaixonado por programação, pela área de dados e pelas tecnologias que envolvem o desenvolvimento back-end.
+- 🌈 Entusiasta da área de tecnologia, apaixonado por programação, pela área de dados e pelas tecnologias que envolvem o desenvolvimento backend.
 
-Portfólio:
-<br/>
-[kaggle](https://www.kaggle.com/devcodecampos)
-<br/>
-[Hackerrank](https://www.hackerrank.com/devcodecampos)
+
 <br/>
 <br/>
 <br/>
