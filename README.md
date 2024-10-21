@@ -3,7 +3,7 @@
 ☮️ Hello World
 
 - 👨🏽‍💻 Sou Analista de Desenvolvimento de Sistemas Jr na [TV ASA BRANCA - AFILIADA GLOBO](https://www.linkedin.com/company/tv-asa-branca/)
-- 🌈 Entusiasta da área de tecnologia, apaixonado por programação, pela área de dados e pelas tecnologias que envolvem o desenvolvimento backend.
+- 🌈 Entusiasta da área de tecnologia, apaixonado por programação, pela área de dados e pelas tecnologias que envolvem o desenvolvimento Full-Stack.
 
 
 <br/>
