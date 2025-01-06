@@ -2,8 +2,8 @@
 
 ☮️ Hello World
 
-- 👨🏽‍💻 Desenvolvedor Full Stack
-- 🌈 Entusiasta da área de tecnologia, apaixonado por programação, pela área de dados e pelas tecnologias que envolvem o desenvolvimento Full-Stack.
+- 👨🏽‍💻 Desenvolvedor Full Stack [@Pix Force](https://www.linkedin.com/company/pixforce)
+- 🌈 Entusiasta da área de tecnologia, apaixonado por programação, pela área de dados e pelas tecnologias que envolvem o desenvolvimento Full Stack.
 
 
 <br/>
